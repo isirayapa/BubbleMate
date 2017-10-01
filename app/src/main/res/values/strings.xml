@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BubbleMate</string>
+    <string name="version_code">1.1.000.1V</string>
+    <string name="title_activity_bubble_das_board">BubbleDasBoardActivity</string>
+</resources>

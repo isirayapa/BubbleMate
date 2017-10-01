@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Application Theme Colors-->
+    <!--#ff9800-->
+    <color name="app_theme_clr_a">#00BCD4</color>
+    <color name="app_theme_clr_b">#00BCD4</color>
+
+    <!--button background-->
+    <color name="app_theme_clr_c_2">#00BCD4</color>
+
+    <!--Button text color-->
+    <color name="app_theme_clr_d">#00BCD4</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="clr_white_900">#FFFFFF</color>
+
+
+    <color name="clr_gray_50">#ECEFF1</color>
+    <color name="clr_gray_100">#F5F5F5</color>
+    <color name="clr_gray_300">#E0E0E0</color>
+    <color name="clr_gray_500">#9E9E9E</color>
+    <color name="clr_gray_600">#757575</color>
+    <color name="clr_gray_800">#424242</color>
+    <color name="clr_gray_900">#212121</color>
+
+    <color name="hexa2f3b64">#2f3b64</color>
+    <color name="clr_bluegray_500">#607D8B</color>
+</resources>
